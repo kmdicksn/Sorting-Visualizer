@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/sorting-visualizer/static/css/main.d5d1bfc8.chunk.css",
-    "main.js": "/sorting-visualizer/static/js/main.0e7207c7.chunk.js",
-    "main.js.map": "/sorting-visualizer/static/js/main.0e7207c7.chunk.js.map",
-    "runtime-main.js": "/sorting-visualizer/static/js/runtime-main.730a01f1.js",
-    "runtime-main.js.map": "/sorting-visualizer/static/js/runtime-main.730a01f1.js.map",
+    "main.js": "/sorting-visualizer/static/js/main.2448eb27.chunk.js",
+    "main.js.map": "/sorting-visualizer/static/js/main.2448eb27.chunk.js.map",
+    "runtime-main.js": "/sorting-visualizer/static/js/runtime-main.6583f293.js",
+    "runtime-main.js.map": "/sorting-visualizer/static/js/runtime-main.6583f293.js.map",
     "static/css/2.f7d89404.chunk.css": "/sorting-visualizer/static/css/2.f7d89404.chunk.css",
-    "static/js/2.e337bece.chunk.js": "/sorting-visualizer/static/js/2.e337bece.chunk.js",
-    "static/js/2.e337bece.chunk.js.map": "/sorting-visualizer/static/js/2.e337bece.chunk.js.map",
-    "static/js/3.6fc0327b.chunk.js": "/sorting-visualizer/static/js/3.6fc0327b.chunk.js",
-    "static/js/3.6fc0327b.chunk.js.map": "/sorting-visualizer/static/js/3.6fc0327b.chunk.js.map",
+    "static/js/2.0e08d30c.chunk.js": "/sorting-visualizer/static/js/2.0e08d30c.chunk.js",
+    "static/js/2.0e08d30c.chunk.js.map": "/sorting-visualizer/static/js/2.0e08d30c.chunk.js.map",
+    "static/js/3.6e30b7bb.chunk.js": "/sorting-visualizer/static/js/3.6e30b7bb.chunk.js",
+    "static/js/3.6e30b7bb.chunk.js.map": "/sorting-visualizer/static/js/3.6e30b7bb.chunk.js.map",
     "index.html": "/sorting-visualizer/index.html",
     "static/css/2.f7d89404.chunk.css.map": "/sorting-visualizer/static/css/2.f7d89404.chunk.css.map",
     "static/css/main.d5d1bfc8.chunk.css.map": "/sorting-visualizer/static/css/main.d5d1bfc8.chunk.css.map",
-    "static/js/2.e337bece.chunk.js.LICENSE.txt": "/sorting-visualizer/static/js/2.e337bece.chunk.js.LICENSE.txt",
+    "static/js/2.0e08d30c.chunk.js.LICENSE.txt": "/sorting-visualizer/static/js/2.0e08d30c.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/sorting-visualizer/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.730a01f1.js",
+    "static/js/runtime-main.6583f293.js",
     "static/css/2.f7d89404.chunk.css",
-    "static/js/2.e337bece.chunk.js",
+    "static/js/2.0e08d30c.chunk.js",
     "static/css/main.d5d1bfc8.chunk.css",
-    "static/js/main.0e7207c7.chunk.js"
+    "static/js/main.2448eb27.chunk.js"
   ]
 }
